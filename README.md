@@ -1,2 +1,2 @@
-# Taller-de-programaci-n-USS
+# Taller-de-programacio-n-USS
 colección de ejercicios resueltos de programación, provenientes de la USS
